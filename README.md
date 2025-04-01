@@ -2,7 +2,7 @@
 Assignment repository for UNT CSCE1015
 
 ## EUID
-$dr0889
+dr0889
 
 ## Favorite Linux Command
 $mkdir
