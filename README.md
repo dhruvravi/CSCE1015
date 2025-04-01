@@ -5,4 +5,4 @@ Assignment repository for UNT CSCE1015
 dr0889
 
 ## Favorite Linux Command
-$mkdir
+mkdir
